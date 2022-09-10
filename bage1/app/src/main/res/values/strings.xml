@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">bage1</string>
+    <string name="title">اسم البرنامج</string>
+    <string name="title2">الرجاء ادخال البيانات التاليه:</string>
+    <string name="name">الاسم</string>
+    <string name="age">العمر</string>
+    <string name="next">التالي</string>
+    <string name="data">بيانات العميل</string>
+
+
+</resources>
